@@ -1,4 +1,4 @@
-Office of Small Business Development Open Data Assets
+Office of Small and Disadvantaged Business Utilization Open Data Assets
 
-This repo holds data assets from VA's Office of Small Business Development›
+This repo holds data assets from VA's Office of Small and Disadvantaged Business Utilization
 
